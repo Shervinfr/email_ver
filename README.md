@@ -12,7 +12,7 @@ This project is a Django-based application that implements user registration and
 ## Requirements
 
 - Python 3.8+
-- Django 4.x
+- Django
 
 ## Installation
 
